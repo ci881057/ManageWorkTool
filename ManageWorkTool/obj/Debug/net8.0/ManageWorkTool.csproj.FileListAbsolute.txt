@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\bin\Debug\net8.0\ManageWorkTool.exe
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\bin\Debug\net8.0\ManageWorkTool.deps.json
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\bin\Debug\net8.0\ManageWorkTool.runtimeconfig.json
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\bin\Debug\net8.0\ManageWorkTool.dll
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\bin\Debug\net8.0\ManageWorkTool.pdb
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\obj\Debug\net8.0\ManageWorkTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\obj\Debug\net8.0\ManageWorkTool.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\obj\Debug\net8.0\ManageWorkTool.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\obj\Debug\net8.0\ManageWorkTool.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\obj\Debug\net8.0\ManageWorkTool.dll
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\obj\Debug\net8.0\refint\ManageWorkTool.dll
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\obj\Debug\net8.0\ManageWorkTool.pdb
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\obj\Debug\net8.0\ManageWorkTool.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\桌面\工具\ManageWorkTool\ManageWorkTool\ManageWorkTool\obj\Debug\net8.0\ref\ManageWorkTool.dll
