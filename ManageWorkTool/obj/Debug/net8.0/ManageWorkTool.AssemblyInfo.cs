@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManageWorkTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c638430571510d2ffac45a8abcd802124cd9ff0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManageWorkTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManageWorkTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

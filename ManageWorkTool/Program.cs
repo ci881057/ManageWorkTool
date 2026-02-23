@@ -515,12 +515,25 @@ class Program
             if (cmd == "3")
             {
                 Console.Write("新增 Todo：");
-                var text = Console.ReadLine();
+                var title = Console.ReadLine();
 
-                if (!string.IsNullOrWhiteSpace(text))
-                {
-                    File.AppendAllText(TodoFile, text + "\n");
-                }
+                if (string.IsNullOrWhiteSpace(title))
+                    continue;
+
+                Console.Write("註記（可空，直接 Enter 略過）：");
+                var note = Console.ReadLine();
+
+                string line;
+
+                if (string.IsNullOrWhiteSpace(note))
+                    line = title.Trim();
+                else
+                    line = $"{title.Trim()}  |  {note.Trim()}";
+
+                File.AppendAllText(TodoFile, line + "\n");
+
+                //Console.WriteLine("已新增");
+                //Console.ReadLine(); // 讓你看到訊息
 
                 continue;
             }
